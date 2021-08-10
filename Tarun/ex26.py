@@ -1,4 +1,4 @@
-from sys import argv 
+from sys import argv
 print("How old are you?", end=' ')
 age = input()
 
@@ -45,6 +45,7 @@ print("--------------")
 five = 10 - 2 + 3 - 6
 print(f"This should be five: {five}")
 
+
 def secret_formula(started):
     jelly_beans = started * 500
     jars = jelly_beans / 1000
@@ -68,14 +69,13 @@ formula = secret_formula(start_point)
 print("We'd have {} beans, {} jars, and {} crates.".format(*formula))
 
 
-
 people = 20
 cats = 30
 dogs = 15
 
 
 if people < cats:
-    print ("Too many cats! The world is doomed!")
+    print("Too many cats! The world is doomed!")
 
 if people < cats:
     print("Not many cats! The world is saved!")
@@ -97,4 +97,3 @@ if people <= dogs:
 
 if people == dogs:
     print("People are dogs.")
-
