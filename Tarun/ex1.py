@@ -5,7 +5,7 @@
 # print('Yay! printing')
 # print("I'd much rather you 'not'.")
 
-#Exercise Part
+# Exercise Part
 print("Sahil is not a good boy")
 
-# IT WILL MAKE ANY LINE COMMENT 
+# IT WILL MAKE ANY LINE COMMENT
